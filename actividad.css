@@ -1,0 +1,22 @@
+
+.row{
+    width: 100%;
+    margin: 0;
+}
+
+.item{
+    border: 1px solid grey;
+    padding: 10px;
+}
+
+form {
+    margin-left: 10px;
+}
+
+form div {
+    margin-bottom: 15px;
+}
+
+button {
+    margin-top: 15px;
+}
